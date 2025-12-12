@@ -24,15 +24,15 @@ The survey captures information about:
 
 🧹 Data Cleaning Steps (Power Query)
 
- ✔ Removed unnecessary rows
- ✔ Splitted salary ranges into min & max
- ✔ Converted ranges into numerical average
- ✔ Extracted text from “Other” fields
- ✔ Converted data types
- ✔ Handled missing values
- ✔ Fixed formatting issues
- ✔ Removed invalid date/time rows
- ✔ Built cleaned tables for modeling
+ - Removed unnecessary rows
+ - Splitted salary ranges into min & max
+ - Converted ranges into numerical average
+ - Extracted text from “Other” fields
+ - Converted data types
+ - Handled missing values
+ - Fixed formatting issues
+ - Removed invalid date/time rows
+ - Built cleaned tables for modeling
 
 📊 Visualizations Included
 
